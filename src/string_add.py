@@ -1,4 +1,3 @@
-def add(numbers):
-    return 0
-
-    
+class Addclass:
+    def add(self):
+        pass
